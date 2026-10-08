@@ -1,46 +1,49 @@
-Java Daily Tasks ☕💻
-This repository contains my daily Java programming practice and college tasks.
+# Java Codes
+
+Welcome to my **Java Codes** repository! 👋
+
+This repository contains my Java programming practice and classroom programs as I learn **Core Java and Object-Oriented Programming (OOP)**.
+
+The programs are written in a simple and beginner-friendly way to understand the basic concepts of Java through practical examples.
+
+---
 
 ## Topics Covered
 
-The programs in this repository cover basic Java concepts such as:
+This repository currently focuses on fundamental Java and OOP concepts, including:
 
-- Taking input from the user using `Scanner`
-- `while` loop
-- `do-while` loop
-- `switch-case`
-- Basic calculations
-- ATM operations using `switch-case` and `do-while` loop
+- 🔹 Classes and Objects
+- 🔹 Methods / Functions
+- 🔹 Parameters and Arguments
+- 🔹 Return Values
+- 🔹 Object as a Parameter
+- 🔹 Returning an Object from a Method
+- 🔹 Object Reference Assignment
+- 🔹 Setters and Getters
+- 🔹 Private Data Members
+- 🔹 Data Validation
+- 🔹 Encapsulation
+- 🔹 Basic Java Syntax
+- 🔹 `if-else` Conditions
+- 🔹 Variables and Data Types
+- 🔹 `System.out.println()`
 
-## 📂 Programs
+---
 
-| Program | Description |
-|--------|-------------|
-| `taking_input.java` | Taking different types of input from the user using Scanner |
-| `while_ex.java` | Simple example of a while loop |
-| `print_numbers.java` | Using a while loop to process numbers until 0 is entered |
-| `Do-While-Loop.java` | Simple example of a do-while loop |
-| `Daily-Task.java` | ATM operations using switch-case and do-while loop |
+## Repository Structure
 
-## ATM Program
-The ATM program demonstrates:
-
-1. Check Balance
-2. Deposit Amount
-3. Withdraw Amount
-4. Exit
-
-The program uses a starting balance and updates the balance whenever an amount is deposited or withdrawn.
-
-## Purpose
-The purpose of this repository is to practice Java programming concepts regularly and keep track of my daily coding tasks.
-
-## 🛠️ Technologies Used
-- Java
-- Visual Studio Code
-- GitHub
-
-## Author
-Pradnya Jaunjat.
-
-Java Programming Practice & Daily Tasks
+```text
+Java-Codes-5-10-26/
+│
+├── Chapter2/
+│   ├── Main.java
+│   ├── Main1.java
+│   ├── Main3.java
+│   ├── Main4.java
+│   ├── Main5.java
+│   ├── Main6.java
+│   ├── Main7.java
+│   ├── Main8.java
+│   └── Main9.java
+│
+└── README.md
